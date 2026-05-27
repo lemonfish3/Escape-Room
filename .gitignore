@@ -110,3 +110,19 @@ InitTestScene*.unity*
 # Asset Store packages (reimport from Asset Store)
 /[Aa]ssets/BK_AlchemistHouse/
 /[Aa]ssets/BK_AlchemistHouse.meta
+
+# VR / XR Packages
+/[Aa]ssets/XR/
+/[Aa]ssets/XR.meta
+/[Aa]ssets/XRI/
+/[Aa]ssets/XRI.meta
+/[Aa]ssets/Oculus/
+/[Aa]ssets/Oculus.meta
+/[Aa]ssets/SteamVR/
+/[Aa]ssets/SteamVR.meta
+/[Aa]ssets/SteamVR_Resources/
+/[Aa]ssets/SteamVR_Resources.meta
+/[Aa]ssets/SteamVR_Input/
+/[Aa]ssets/SteamVR_Input.meta
+/[Aa]ssets/Wave/
+/[Aa]ssets/Wave.meta
