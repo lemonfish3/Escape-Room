@@ -29,11 +29,35 @@
               "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Assembly-CSharp.csproj": {
                 "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Assembly-CSharp.csproj"
               },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Hands.Samples.VisualizerSample.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Hands.Samples.VisualizerSample.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj"
+              },
               "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj": {
                 "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj"
               },
               "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj": {
                 "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj"
               }
             }
           }
