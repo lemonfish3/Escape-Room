@@ -4,6 +4,11 @@
 #
 # Recommended: add any editor/OS/tool-specific ignore rules from the Global/ templates as needed.
 # See: https://github.com/github/gitignore/tree/main/Global
+
+# Asset Store packages (reimport from Asset Store)
+/[Aa]ssets/BK_AlchemistHouse/
+/[Aa]ssets/BK_AlchemistHouse.meta
+
 #
 .utmp/
 /[Ll]ibrary/
