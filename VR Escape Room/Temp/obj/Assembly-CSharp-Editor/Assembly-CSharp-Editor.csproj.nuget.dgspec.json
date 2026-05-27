@@ -1,0 +1,629 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Assembly-CSharp-Editor.csproj": {}
+  },
+  "projects": {
+    "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Assembly-CSharp-Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Assembly-CSharp-Editor.csproj",
+        "projectName": "Assembly-CSharp-Editor",
+        "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Assembly-CSharp-Editor.csproj",
+        "packagesPath": "/Users/ymq-joy/.nuget/packages/",
+        "outputPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Temp/obj/Assembly-CSharp-Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ymq-joy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Assembly-CSharp.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Assembly-CSharp.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Assembly-CSharp.csproj",
+        "packagesPath": "/Users/ymq-joy/.nuget/packages/",
+        "outputPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Temp/obj/Assembly-CSharp/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ymq-joy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Hands.Samples.VisualizerSample.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Hands.Samples.VisualizerSample.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj"
+              },
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Hands.Samples.VisualizerSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Hands.Samples.VisualizerSample.csproj",
+        "projectName": "Unity.XR.Hands.Samples.VisualizerSample",
+        "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Hands.Samples.VisualizerSample.csproj",
+        "packagesPath": "/Users/ymq-joy/.nuget/packages/",
+        "outputPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Temp/obj/Unity.XR.Hands.Samples.VisualizerSample/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ymq-joy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator",
+        "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj",
+        "packagesPath": "/Users/ymq-joy/.nuget/packages/",
+        "outputPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ymq-joy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.Hands",
+        "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj",
+        "packagesPath": "/Users/ymq-joy/.nuget/packages/",
+        "outputPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.Hands/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ymq-joy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor",
+        "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj",
+        "packagesPath": "/Users/ymq-joy/.nuget/packages/",
+        "outputPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ymq-joy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator",
+        "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj",
+        "packagesPath": "/Users/ymq-joy/.nuget/packages/",
+        "outputPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ymq-joy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor",
+        "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj",
+        "packagesPath": "/Users/ymq-joy/.nuget/packages/",
+        "outputPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ymq-joy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets",
+        "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj",
+        "packagesPath": "/Users/ymq-joy/.nuget/packages/",
+        "outputPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.StarterAssets/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ymq-joy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor",
+        "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj",
+        "packagesPath": "/Users/ymq-joy/.nuget/packages/",
+        "outputPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ymq-joy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI",
+        "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj",
+        "packagesPath": "/Users/ymq-joy/.nuget/packages/",
+        "outputPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ymq-joy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj",
+        "projectName": "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor",
+        "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj",
+        "packagesPath": "/Users/ymq-joy/.nuget/packages/",
+        "outputPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Temp/obj/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ymq-joy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj": {
+                "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

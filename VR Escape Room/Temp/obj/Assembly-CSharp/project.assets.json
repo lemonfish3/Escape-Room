@@ -1,0 +1,258 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Unity.XR.Hands.Samples.VisualizerSample/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Hands.Samples.VisualizerSample.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Hands.Samples.VisualizerSample.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.Hands/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.Hands.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.Hands.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.StarterAssets/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.dll": {}
+        }
+      },
+      "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unity.XR.Hands.Samples.VisualizerSample/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Hands.Samples.VisualizerSample.csproj",
+      "msbuildProject": "Unity.XR.Hands.Samples.VisualizerSample.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.Hands/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.Hands.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.Hands.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.StarterAssets/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj"
+    },
+    "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor/1.0.0": {
+      "type": "project",
+      "path": "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj",
+      "msbuildProject": "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Unity.XR.Hands.Samples.VisualizerSample >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.Hands >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.StarterAssets >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI >= 1.0.0",
+      "Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/ymq-joy/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Assembly-CSharp.csproj",
+      "projectName": "Assembly-CSharp",
+      "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Assembly-CSharp.csproj",
+      "packagesPath": "/Users/ymq-joy/.nuget/packages/",
+      "outputPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Temp/obj/Assembly-CSharp/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ymq-joy/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Hands.Samples.VisualizerSample.csproj": {
+              "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Hands.Samples.VisualizerSample.csproj"
+            },
+            "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj": {
+              "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj"
+            },
+            "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj": {
+              "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.csproj"
+            },
+            "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj": {
+              "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj"
+            },
+            "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj": {
+              "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj"
+            },
+            "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj": {
+              "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj"
+            },
+            "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj": {
+              "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj"
+            },
+            "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj": {
+              "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj"
+            },
+            "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj": {
+              "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.csproj"
+            },
+            "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj": {
+              "projectPath": "/Users/ymq-joy/Documents/GitHub/Escape-Room/VR Escape Room/Unity.XR.Interaction.Toolkit.Samples.WorldSpaceUI.Editor.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
